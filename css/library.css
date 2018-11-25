@@ -19050,7 +19050,16 @@ label.panel-block:hover {
   margin-right: auto;
 }
 
-.novo-cidadao {
+.conteudo {
+  margin-top: 1rem;
+}
+
+.novo-cidadao form {
+  margin-bottom: 8rem;
+  padding: 0 10rem;
+}
+
+.icon-rota {
   position: fixed;
   bottom: 1rem;
   right: 1rem;
