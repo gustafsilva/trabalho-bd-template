@@ -1,0 +1,25 @@
+{
+  "name": "trabalho-bd-template",
+  "version": "1.0.0",
+  "description": "Template para lista de Cidadão e Cadastro de Cidadão, trabalho matéria Banco de Dados (UFES) 2018/02",
+  "main": "index.js",
+  "repository": "https://github.com/gustafsilva/trabalho-bd-template.git",
+  "author": "Gustavo F. Silva <gustafsilva@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "gulp dev",
+    "dev": "gulp dev",
+    "browserSync": "gulp browserSync",
+    "css": "gulp css",
+    "vendor": "gulp vendor"
+  },
+  "devDependencies": {
+    "browser-sync": "2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "6.0.0",
+    "gulp-clean-css": "3.10.0",
+    "gulp-header": "2.0.5",
+    "gulp-rename": "1.4.0",
+    "gulp-sass": "4.0.1"
+  }
+}
