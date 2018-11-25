@@ -1,0 +1,14 @@
+@import '../node_modules/bulma/bulma.sass';
+@import "../node_modules/font-awesome/scss/font-awesome.scss";
+@import '../node_modules/hover.css/scss/hover.scss';
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.novo-cidadao {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+}
